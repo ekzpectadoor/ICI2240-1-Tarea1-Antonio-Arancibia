@@ -67,7 +67,7 @@ Opción seleccionada: 1. Registrar Tickets
 Ingrese la ID del ticket (solo números): 205
 Ingrese el problema (máximo 500 caracteres): El sistema no genera facturas.
 El sistema registra el ticket con prioridad "Bajo" y hora actual.
----
+
 
 **Paso 2: Elevar prioridad del ticket**  
 Un técnico determina que el error es crítico y actualiza la prioridad.
@@ -75,7 +75,7 @@ Opción seleccionada: 2 Asignar prioridad a Ticket
 Ingrese la ID del Ticket y luego su prioridad (Alto, Medio, Bajo): 205 
 Alto
 Prioridad actualizada con éxito.
----
+
 
 **Paso 3: Ver tickets pendientes**  
 Se revisa la lista para confirmar la prioridad actualizada.
@@ -90,7 +90,7 @@ ID: 204
 Descripción: Una pantalla tiene una linea negra.
 Prioridad: Bajo
 Hora: 15:01:03
----
+
 
 **Paso 4: Atender el ticket prioritario**  
 El equipo de soporte procesa el ticket urgente.
@@ -100,7 +100,7 @@ Descripción: El sistema no genera facturas.
 Prioridad: Alto
 Hora: 15:22:10
 El ticket se elimina de la lista, y el equipo inicia la solución del problema.
---- 
+
 
 **Paso 5: Buscar un Ticket**
 Una persona habla con soporte tecnico y le menciona su ticket a estos
